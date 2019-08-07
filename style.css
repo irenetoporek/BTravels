@@ -1,0 +1,15 @@
+html {
+font-family: 'Open sans',
+sans-serif; 
+color: black ;
+background: burlywood ;
+}
+signin { color: cornflowerblue}
+signin:hover {color: darkcyan}
+login {color: cornflowerblue}
+signin:hover {color: darkcyan}
+search_button { 
+form-input{ border: 2px solid grey; padding; 5px;}
+form-input:focus{ background: lightyellow; border-color: blue; outline: none;}
+
+}
